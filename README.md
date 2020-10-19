@@ -10,6 +10,7 @@ Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 - <a href="https://handlebarsjs.com/">Handlebars</a>
 - <a href="https://nodejs.org/en/">NodeJS</a> <br>
 - <a href="https://www.sqlite.org/index.html">SQLite</a> <br>
-- <a href="https://expressjs.com/">Express</a>
+- <a href="https://expressjs.com/">Express</a> <br>
+
 
 <p align="center">Desenvolvido com 🧡 Eduardo Angelo Simon</p>
