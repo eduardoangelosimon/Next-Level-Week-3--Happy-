@@ -1,5 +1,9 @@
 # Next-Level-Week-3-Happy
-Projeto desenvolvido e ministrado pela Rocketseat durante a Next Level Week#3
+Projeto 
+
+# 💻 O Projeto
+Esse é um projeto desenvolvido e ministrado pela Rocketseat durante a Next Level Week#3 (12/10/2020 à 18/10/2020).
+A aplicação visa facilitar a visitação aos orfanatos de todos os cantos do mundo, destacando-os no mapa através de um cadastro, para que mais pessoas possam conhece-lo.
 
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
