@@ -1,4 +1,4 @@
-# Next Level Week#3 Trilha Discovery
+# Next Level Week#3 - Trilha Discovery
 
 # 💻 O Projeto
 Esse é um projeto desenvolvido e ministrado pela Rocketseat durante a Next Level Week#3 (12/10/2020 à 18/10/2020).
